@@ -27,8 +27,7 @@ This is a simple calculator application built using Java and Swing. The calculat
    cd calculator
  
  ```Compile the Java files:
-```bash
-
+``
 javac calculator.java
 
  ```
