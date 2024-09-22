@@ -24,19 +24,19 @@ This is a simple calculator application built using Java and Swing. The calculat
    ```bash
    git clone https://github.com/yourusername/calculator.git
    cd calculator
-
-    Compile the Java files:
-
-    bash
+ 
+ ```Compile the Java files:
+```bash
 
 javac calculator.java
 
+ ```
 Run the application:
 
-bash
+ ```bash
 
     java calculator
-
+ ```
 ## Screenshots
 
 <!-- Add a screenshot of your application -->
