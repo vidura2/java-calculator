@@ -21,7 +21,8 @@ This is a simple calculator application built using Java and Swing. The calculat
 ## How to Run
 
 1. Clone the repository:
-   ```bash
+
+    ```
    git clone https://github.com/yourusername/calculator.git
    cd calculator
  
