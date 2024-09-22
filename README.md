@@ -39,7 +39,7 @@ Run the application:
     java calculator
  ```
 ## Screenshots
-
+<img src="https://github.com/vidura2/java-calculator/blob/main/Screenshot%202024-09-22%20210020.png">
 <!-- Add a screenshot of your application -->
 ## How to Use
 
